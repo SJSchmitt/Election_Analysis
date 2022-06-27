@@ -33,7 +33,7 @@ The Colorado Board of Elections provided us with a list of questions our script 
     
 Our code wrote these results to the terminal and to [a text file](Analysis/election_results.txt).  My terminal output using Visual Studio Code is shown below:
 
-[An image of a VS Code terminal, showing the same results as the election_results.txt file](Analysis/terminal_output.png)
+![An image of a VS Code terminal, showing the same results as the election_results.txt file](Analysis/terminal_output.PNG)
 
 ## Election Audit Summary
 <!-- In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections. -->
